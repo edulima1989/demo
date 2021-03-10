@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/edulima/.dotnet/store/|arch|/|tfm|",
+      "/home/edulima/.nuget/packages"
+    ]
+  }
+}
